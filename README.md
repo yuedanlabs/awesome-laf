@@ -1,39 +1,92 @@
+# Awesome Laf [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
+<p align="center">
+  <img src="./assets/logo.jpg" alt="logo" width="164" height="80" />
+</p>
+<p align="center" style="color: #00beb1">
+Life is short, you need Laf
+</p>
+
 > An awesome & curated list of best laf practices
 
-## 💡 **Laf 使用教程**
-- ### 云函数
-  - [云函数接入微信支付](https://forum.laf.run/d/136)
-  - [云函数生成图形验证码（SVG）](https://forum.laf.run/d/133)
-  - [云函数实现文本安全检测](https://forum.laf.run/d/187)
+## **Laf 官方**
 
-- ### 高级用法
-  - [在云开发中使用WebSocket](https://forum.laf.run/d/127)
-  - [如何删除恼人的日志！！](https://forum.laf.run/d/73)
-  - [使用前置过滤器为Laf云函数增加限制IP访问次数](https://forum.laf.run/d/130)
+官方的一些公开地址
 
-## 🚀 **Laf 案例**
- - [三分钟拥有自己的 ChatGPT (从开发到上线)](https://zuofeng59556.github.io/my-blog/pages/quickStart/chatGPT/)
- - [三分钟搭建飞书机器人](https://forum.laf.run/d/88)
- - [三分钟 ChatGPT 接入钉钉机器人](https://juejin.cn/post/7211061398680305725)
- - [三分钟写一个 Todo app，瞬间征服女神](https://forum.laf.run/d/151)
- - [一分钟给Siri升个级！从此变ChatSiri！](https://forum.laf.run/d/79)
+- [GitHub](https://github.com/labring/laf) - 开源地址
+- [laf.dev](https://laf.dev) - 官网 - 海外节点
+- [laf.run](https://laf.run) - 官网 - 国内节点
+- [lafyun](https://www.lafyun.com) - 官网 - 0.8 旧版本
+- [forum](https://forum.laf.run) - Laf 开发者社区
+- [Laf API](https://api.laf.run) - 官网 - 开放 API
 
-## ✈️ **Laf 生产实践**
- - [Chatmind](https://www.chatmind.tech/?utm_source=appinn.com)  - 与AI对话生成思维导图
- - [ChatGpt](http://lafai.io/) - 无需翻墙，无需等待，点击开聊
-- [Snapdrop in laf](https://github.com/moonrailgun/lafdrop) - 局域网p2p文件传输
- - [小报童导航](https://forum.laf.run/d/46) - 小报童导航，发现优秀专栏
- - [一起听播客](https://github.com/yenche123/podcast-together) - 跟你的好友一起实时连线听播客
- - [中大猫谱 - 校园猫猫相册](https://github.com/sysucats/zhongdamaopu) - 拍照记录校园内猫猫的成长轨迹
+## **Laf 生态**
 
-## ⚽ **Laf 生态**
- - [vs code 插件](https://forum.laf.run/d/67) - 在 vscode 中开发 laf
- - [ICP Query Chrome Extension](https://forum.laf.run/d/49) - 一款方便 icp 备案查询的 Chrome 插件
+理想的开发离不了一个好的生态，站在巨人的肩膀上，才能朝着更高更远前进
 
-## ⚙️ **Laf 私有化部署**
- - [三分钟部署 laf (win 版本)](https://zuofeng59556.github.io/my-blog/pages/quickStart/deployLaf/)
- - [30分钟在家里拥有一个属于自己的Laf](https://forum.laf.run/d/124)
- - [为私有化部署 laf 配置手机号验证码登录](https://forum.laf.run/d/160)
+- [laf assistant](https://marketplace.visualstudio.com/items?itemName=NightWhite.laf-assistant) - 一个 VS Code 插件，Laf 云开发本地化开发神器
+- [laf-rbac-admin](https://github.com/walle233/laf-rbac-admin) - 基于 laf 的一个简单的 rbac admin 管理后台
+- [Laf 快速开发平台](https://github.com/zhuo-tech/nest) - 有一个管理后台，基于 laf 开发的快速开发平台
+- [nw-lafjs](https://www.npmjs.com/package/nw-lafjs) - 可能是目前 Laf 上最好用的数据库 npm 包了～还有一堆 util
+- [laf-easybucket](https://www.npmjs.com/package/laf-easybucket) - laf 专属 bucket 操作封装
+- [laf 文档镜像](https://docs.v2laf.com) - 一个根据官方 GitHub 编译的非官方文档镜像站，及时跟进 GitHub 仓库，最新文档尝鲜看
 
-## 😃 **Interesting Laf**
- - [我用 Laf 三分钟写了一个专属 ChatGPT ，Laf 创始人：明天来上班！](https://zuofeng59556.github.io/my-blog/pages/quickStart/offer/)
+## **Laf 作品**
+
+发现优秀案例，激起思维火花
+
+- [ChatMind](https://www.chatmind.tech) - 专注于 AI 生成思维导图的效率工具, 旨在为用户提供最优质的智能化思维导图方案
+- [中大猫谱小程序](https://github.com/sysucats/zhongdamaopu) - 校园猫猫相册，拍照记录校园内猫猫的成长轨迹 🐱😺😻
+- [小报童导航](https://forum.laf.run/d/46) - 小报童导航，发现优秀专栏
+- [ICP Query Chrome Extension](https://github.com/yuedanlabs/icp-query-extension) - 一款方便 icp 备案查询的 Chrome 插件
+- [一起听播客](https://github.com/yenche123/podcast-together) - 跟你的好友一起实时听播客！
+- [lafdrop](https://github.com/moonrailgun/lafdrop) - Snapdrop in Laf，局域网 p2p 文件传输
+- [Check-GPT-IP](https://kjglab-check-ip.site.laf.run) - 一款检测你的网络环境是否能为 chatgpt 和 openai 付费小工具
+- [Laf Ai](https://lafai.io/) - 一个基于 Laf 开发的 AI 聊天网页，基于无需翻墙，无需等待，点击开聊
+
+## **Laf 云开发教程**
+
+一些关于 Laf 云开发的教程，大部分都是文档上没有，而常常所需要的
+
+- [云函数接入微信支付](https://forum.laf.run/d/136)
+- [云函数生成图形验证码（SVG）](https://forum.laf.run/d/133)
+- [云函数实现文本安全检测](https://forum.laf.run/d/187)
+- [在云开发中使用 WebSocket](https://forum.laf.run/d/127)
+- [如何删除恼人的日志！！](https://forum.laf.run/d/73)
+- [使用前置过滤器为 Laf 云函数增加限制 IP 访问次数](https://forum.laf.run/d/130)
+
+## **Laf 案例教程**
+
+一些使用或者折腾 Laf 的案例，包含教程部分，并非简单的作品
+
+- [国内服务器 3 分钟将 ChatGPT 接入微信公众号（超详细）](https://forum.laf.run/d/364)
+- [Laf 接入阿里云视频点播服务](https://forum.laf.run/d/346)
+- [Laf 接入 UniPush](https://forum.laf.run/d/349)
+- [三分钟拥有自己的 ChatGPT (从开发到上线)](https://3min.cloud/pages/quickStart/chatGPT/)
+- [三分钟搭建飞书机器人](https://forum.laf.run/d/88)
+- [三分钟 ChatGPT 接入钉钉机器人](https://juejin.cn/post/7211061398680305725)
+- [三分钟写一个 Todo app，瞬间征服女神](https://forum.laf.run/d/151)
+- [一分钟给 Siri 升个级！从此变 ChatSiri！](https://forum.laf.run/d/79)
+- [三分钟部署 laf (win 版本)](https://3min.cloud/pages/quickStart/deployLaf/)
+- [30 分钟在家里拥有一个属于自己的 Laf](https://forum.laf.run/d/124)
+- [为私有化部署 laf 配置手机号验证码登录](https://forum.laf.run/d/160)
+
+## **Laf 其他未开源案例**
+
+一些基于 Laf 开发，已经成功上线并商用的案例，非开源
+
+- 【蜗牛教育】 - 学习就业管理系统，68 个 function，安卓 app，涉及学生管理、课程管理、教学大纲管理、作业管理、教务管理、简历管理、入驻企业管理以及岗位管理等功能
+- 【国牧】 - 电子商务，公众号，涉及礼品卡管理，发卡制卡、卡券核销兑换、订单管理、快递/物流管理以及购物车等功能
+- 某律师平台 APP - 涉及法务咨询，微信支付宝支付功能、工伤赔偿计算，仲裁费用计算，律师费计算、案件管理，撤案等、律师接单以及消息推送等功能
+- 【爱尔兰中餐馆小程序】 - 2021 年时 累计 ¥300w 流水，涉及点单，菜谱管理、配送管理、会员卡管理以及订单管理
+- 某围棋游戏 - 承载该款游戏相关后台
+
+## **Laf 趣闻**
+
+杂谈趣事
+
+- [我用 Laf 三分钟写了一个专属 ChatGPT ，Laf 创始人：明天来上班！](https://3min.cloud/pages/quickStart/offer/)
+
+## Thanks
+
+- [sulnong](https://github.com/sulnong/awesome-laf) - 感谢 sulnong 同学创建了该模版
