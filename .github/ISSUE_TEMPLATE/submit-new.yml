@@ -1,0 +1,40 @@
+name: Submit new
+title: "[submit]"
+description: submit a new
+labels: ["enhancement"]
+body:
+  - type: dropdown
+    attributes:
+      label: Category
+      description: Choose a Category
+      options:
+        - 官方
+        - 生态
+        - 作品
+        - 教程
+        - 趣闻
+        - 其他
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Content
+      description: >
+        Submit here.
+      placeholder: >
+        The title and url are both required.
+
+        title: xxx
+
+        url: xxx
+
+        description: xxx
+      value: >
+        title: xxx
+
+        url: xxx
+
+        description: xxx
+    validations:
+      required: true
