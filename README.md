@@ -54,6 +54,12 @@ Life is short, you need Laf
 - [在云开发中使用 WebSocket](https://forum.laf.run/d/127)
 - [如何删除恼人的日志！！](https://forum.laf.run/d/73)
 - [使用前置过滤器为 Laf 云函数增加限制 IP 访问次数](https://forum.laf.run/d/130)
+- [用 Laf 云开发搭建一个 ChatGPT Web 演示网页](https://forum.laf.run/d/100)
+- [Axios实现流式加载～](https://forum.laf.run/d/262)
+- [微信小程序最新获取用户信息的方式（包括头像上传到 laf ）](https://forum.laf.run/d/367)
+- [laf-client-sdk 微信小程序最佳引入方法](https://forum.laf.run/d/387)
+- [laf连接sql server](https://forum.laf.run/d/411)
+- [laf连接mysql](https://forum.laf.run/d/414)
 
 ## **Laf 案例教程**
 
@@ -70,6 +76,9 @@ Life is short, you need Laf
 - [三分钟部署 laf (win 版本)](https://3min.cloud/pages/quickStart/deployLaf/)
 - [30 分钟在家里拥有一个属于自己的 Laf](https://forum.laf.run/d/124)
 - [为私有化部署 laf 配置手机号验证码登录](https://forum.laf.run/d/160)
+- [laf 1.0如何配置https](https://forum.laf.run/d/308)
+- [Laf 1.0私有部署: 虚拟机与内网专集](https://forum.laf.run/d/328)
+- [使用Laf简单实现多设备之间的文本复制](https://forum.laf.run/d/426)
 
 ## **Laf 其他未开源案例**
 
