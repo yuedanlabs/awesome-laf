@@ -43,6 +43,7 @@ Life is short, you need Laf
 - [lafdrop](https://github.com/moonrailgun/lafdrop) - Snapdrop in Laf，局域网 p2p 文件传输
 - [Check-GPT-IP](https://kjglab-check-ip.site.laf.run) - 一款检测你的网络环境是否能为 chatgpt 和 openai 付费小工具
 - [Laf Ai](https://lafai.io/) - 一个基于 Laf 开发的 AI 聊天网页，基于无需翻墙，无需等待，点击开聊
+- [GPT搜索开源图标](https://icones.chatgptdddd.com) -  Icon Explorer with Instant searching, powered by Iconify. You can find the source code from: https://github.com/zsodur/icones
 
 ## **Laf 云开发教程**
 
@@ -79,6 +80,12 @@ Life is short, you need Laf
 - [laf 1.0如何配置https](https://forum.laf.run/d/308)
 - [Laf 1.0私有部署: 虚拟机与内网专集](https://forum.laf.run/d/328)
 - [使用Laf简单实现多设备之间的文本复制](https://forum.laf.run/d/426)
+
+## **Laf 其他参考**
+
+一些第三方的问题参考，有些可能是解决小问题的捷径
+
+- [用油猴脚本管理WebIDE的云函数缓存 解决多设备维护云函数时造成代码不同步的问题(曲线救国)](https://forum.laf.run/d/453)
 
 ## **Laf 其他未开源案例**
 
