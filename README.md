@@ -80,6 +80,7 @@ Life is short, you need Laf
 - [laf 1.0如何配置https](https://forum.laf.run/d/308)
 - [Laf 1.0私有部署: 虚拟机与内网专集](https://forum.laf.run/d/328)
 - [使用Laf简单实现多设备之间的文本复制](https://forum.laf.run/d/426)
+- [使用laf帮政治老师做一个抽题器](https://forum.laf.run/d/370) - 从前端到后端教你做一个托管在laf的网页抽题器
 
 ## **Laf 其他参考**
 
