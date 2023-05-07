@@ -82,6 +82,8 @@ Life is short, you need Laf
 - [Laf 1.0私有部署: 虚拟机与内网专集](https://forum.laf.run/d/328)
 - [使用Laf简单实现多设备之间的文本复制](https://forum.laf.run/d/426)
 - [使用laf帮政治老师做一个抽题器](https://forum.laf.run/d/370) - 从前端到后端教你做一个托管在laf的网页抽题器
+- [微信公众号三分钟接入OpenAI](https://forum.laf.run/d/496)
+- [腾讯云开发迁移实录](https://forum.laf.run/d/499)
 
 ## **Laf 其他参考**
 
