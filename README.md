@@ -84,6 +84,7 @@ Life is short, you need Laf
 - [使用laf帮政治老师做一个抽题器](https://forum.laf.run/d/370) - 从前端到后端教你做一个托管在laf的网页抽题器
 - [微信公众号三分钟接入OpenAI](https://forum.laf.run/d/496)
 - [腾讯云开发迁移实录](https://forum.laf.run/d/499)
+- [只需两分半，利用FastGPT和Laf将GPT接入企业微信](https://forum.laf.run/d/556)
 
 ## **Laf 其他参考**
 
