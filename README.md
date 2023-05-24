@@ -72,12 +72,12 @@ Life is short, you need Laf
 - [国内服务器 3 分钟将 ChatGPT 接入微信公众号（超详细）](https://forum.laf.run/d/364)
 - [Laf 接入阿里云视频点播服务](https://forum.laf.run/d/346)
 - [Laf 接入 UniPush](https://forum.laf.run/d/349)
-- [三分钟拥有自己的 ChatGPT (从开发到上线)](https://3min.cloud/pages/quickStart/chatGPT/)
+- [三分钟拥有自己的 ChatGPT (从开发到上线)](https://3min.cloud/chatgpt/)
 - [三分钟搭建飞书机器人](https://forum.laf.run/d/88)
 - [三分钟 ChatGPT 接入钉钉机器人](https://juejin.cn/post/7211061398680305725)
 - [三分钟写一个 Todo app，瞬间征服女神](https://forum.laf.run/d/151)
 - [一分钟给 Siri 升个级！从此变 ChatSiri！](https://forum.laf.run/d/79)
-- [三分钟部署 laf (win 版本)](https://3min.cloud/pages/quickStart/deployLaf/)
+- [三分钟部署 laf (win 版本)](https://3min.cloud/deploylaf/)
 - [30 分钟在家里拥有一个属于自己的 Laf](https://forum.laf.run/d/124)
 - [为私有化部署 laf 配置手机号验证码登录](https://forum.laf.run/d/160)
 - [laf 1.0如何配置https](https://forum.laf.run/d/308)
@@ -108,7 +108,7 @@ Life is short, you need Laf
 
 杂谈趣事
 
-- [我用 Laf 三分钟写了一个专属 ChatGPT ，Laf 创始人：明天来上班！](https://3min.cloud/pages/quickStart/offer/)
+- [我用 Laf 三分钟写了一个专属 ChatGPT ，Laf 创始人：明天来上班！](https://3min.cloud/offer/)
 
 ## Thanks
 
