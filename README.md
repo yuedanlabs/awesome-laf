@@ -62,6 +62,8 @@ Life is short, you need Laf
 - [laf-client-sdk 微信小程序最佳引入方法](https://forum.laf.run/d/387)
 - [laf连接sql server](https://forum.laf.run/d/411)
 - [laf连接mysql](https://forum.laf.run/d/414)
+- [Laf 云函数的鉴权，获取 token ，token过期处理](https://forum.laf.run/d/535)
+- [Laf 云函数的鉴权 plus 版](https://forum.laf.run/d/636)
 
 ## **Laf 案例教程**
 
