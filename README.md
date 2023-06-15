@@ -45,6 +45,7 @@ Life is short, you need Laf
 - [Laf Ai](https://lafai.io/) - 一个基于 Laf 开发的 AI 聊天网页，基于无需翻墙，无需等待，点击开聊
 - [GPT搜索开源图标](https://icones.chatgptdddd.com) -  Icon Explorer with Instant searching, powered by Iconify. You can find the source code from: https://github.com/zsodur/icones
 - [AI麻瓜](https://forum.laf.run/d/505) - 一款基于 Laf 开发的 AI 小程序，包括百科、写作、论文、小说、文案、脚本、代码、问答、绘画、视频等效率工具神器，辅助解决你工作生活情感的各种问题！可以 [点击此处](https://xc8wyb-aimagua.oss.laf.run/static/gh_383ee51686b8_258.jpg) 扫码体验
+- [Apple助手](#) - 超全的苹果产品参数查询、汇总信息每天更新。可以 [点击此处](https://cdn.v2laf.com/img/uPic/2023-06-16-01-40-1JNVUf.jpg) 扫码体验
 
 ## **Laf 云开发教程**
 
