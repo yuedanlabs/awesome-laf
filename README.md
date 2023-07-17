@@ -43,7 +43,7 @@ Life is short, you need Laf
 - [一起听播客](https://github.com/yenche123/podcast-together) - 跟你的好友一起实时听播客！
 - [lafdrop](https://github.com/moonrailgun/lafdrop) - Snapdrop in Laf，局域网 p2p 文件传输
 - [Check-GPT-IP](https://kjglab-check-ip.site.laf.run) - 一款检测你的网络环境是否能为 chatgpt 和 openai 付费小工具
-- [Laf Ai](https://lafai.io/) - 一个基于 Laf 开发的 AI 聊天网页，基于无需翻墙，无需等待，点击开聊
+- ~~[Laf Ai](https://lafai.io/) - 一个基于 Laf 开发的 AI 聊天网页，基于无需翻墙，无需等待，点击开聊~~
 - [GPT搜索开源图标](https://icones.chatgptdddd.com) -  Icon Explorer with Instant searching, powered by Iconify. You can find the source code from: https://github.com/zsodur/icones
 - [AI麻瓜](https://forum.laf.run/d/505) - 一款基于 Laf 开发的 AI 小程序，包括百科、写作、论文、小说、文案、脚本、代码、问答、绘画、视频等效率工具神器，辅助解决你工作生活情感的各种问题！可以 [点击此处](https://xc8wyb-aimagua.oss.laf.run/static/gh_383ee51686b8_258.jpg) 扫码体验
 - [Apple助手](#) - 超全的苹果产品参数查询、汇总信息每天更新。可以 [点击此处](https://cdn.v2laf.com/img/uPic/2023-06-16-01-40-1JNVUf.jpg) 扫码体验
