@@ -30,7 +30,7 @@ Life is short, you need Laf
 - [nw-lafjs](https://www.npmjs.com/package/nw-lafjs) - 可能是目前 Laf 上最好用的数据库 npm 包了～还有一堆 util
 - [laf-easybucket](https://www.npmjs.com/package/laf-easybucket) - laf 专属 bucket 操作封装
 <!-- - [laf 文档镜像](https://docs.v2laf.com) - 一个根据官方 GitHub 编译的非官方文档镜像站，及时跟进 GitHub 仓库，最新文档尝鲜看 -->
-- [Laf x DB](https://forum.laf.run/d/867) - 基于 laf-client-sdk 和 laf API 的一款 Laf 云数据库管理工具，可作为轻度的数据库增删改查使用
+- [Laf x DB](https://github.com/NMTuan/laf_curd) - 基于 laf-client-sdk 和 laf API 的一款 Laf 云数据库管理工具，可作为轻度的数据库增删改查使用
 
 ## **Laf 作品**
 
