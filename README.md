@@ -29,7 +29,8 @@ Life is short, you need Laf
 - [Laf 快速开发平台](https://github.com/zhuo-tech/nest) - 有一个管理后台，基于 laf 开发的快速开发平台
 - [nw-lafjs](https://www.npmjs.com/package/nw-lafjs) - 可能是目前 Laf 上最好用的数据库 npm 包了～还有一堆 util
 - [laf-easybucket](https://www.npmjs.com/package/laf-easybucket) - laf 专属 bucket 操作封装
-- [laf 文档镜像](https://docs.v2laf.com) - 一个根据官方 GitHub 编译的非官方文档镜像站，及时跟进 GitHub 仓库，最新文档尝鲜看
+<!-- - [laf 文档镜像](https://docs.v2laf.com) - 一个根据官方 GitHub 编译的非官方文档镜像站，及时跟进 GitHub 仓库，最新文档尝鲜看 -->
+- [Laf x DB](https://forum.laf.run/d/867) - 基于 laf-client-sdk 和 laf API 的一款 Laf 云数据库管理工具，可作为轻度的数据库增删改查使用
 
 ## **Laf 作品**
 
@@ -65,6 +66,7 @@ Life is short, you need Laf
 - [laf连接mysql](https://forum.laf.run/d/414)
 - [Laf 云函数的鉴权，获取 token ，token过期处理](https://forum.laf.run/d/535)
 - [Laf 云函数的鉴权 plus 版](https://forum.laf.run/d/636)
+- [Laf 结合七牛云对象存储实现文件上传](https://forum.laf.run/d/786)
 
 ## **Laf 案例教程**
 
@@ -88,6 +90,8 @@ Life is short, you need Laf
 - [微信公众号三分钟接入OpenAI](https://forum.laf.run/d/496)
 - [腾讯云开发迁移实录](https://forum.laf.run/d/499)
 - [只需两分半，利用FastGPT和Laf将GPT接入企业微信](https://forum.laf.run/d/556)
+- [一周一技！ 跨应用共享数据库！](https://forum.laf.run/d/852)
+- [使用 Laf 开发微软文本转语音 - Edge版本](https://forum.laf.run/d/807)
 
 ## **Laf 其他参考**
 
