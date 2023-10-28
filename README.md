@@ -68,6 +68,7 @@ Life is short, you need Laf
 - [Laf 云函数的鉴权，获取 token ，token过期处理](https://forum.laf.run/d/535)
 - [Laf 云函数的鉴权 plus 版](https://forum.laf.run/d/636)
 - [Laf 结合七牛云对象存储实现文件上传](https://forum.laf.run/d/786)
+- [Github Action in Laf | 自动化部署静态页面到laf storage](https://forum.laf.run/d/1077)
 
 ## **Laf 案例教程**
 
