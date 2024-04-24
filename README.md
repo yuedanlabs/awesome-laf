@@ -74,6 +74,7 @@ Life is short, you need Laf
 
 一些使用或者折腾 Laf 的案例，包含教程部分，并非简单的作品
 
+- [用laf开发一个私有化短链服务](https://mp.weixin.qq.com/s?__biz=MzkyMTUwMTg1Mw==&mid=2247485570&idx=1&sn=875727bfa03f3ced4dd1193be8a254a0&chksm=c183e170f6f46866c59503a630e1fe30e022ef776aae737b58b571b3fe759d7594074c8a939a#rd)
 - [国内服务器 3 分钟将 ChatGPT 接入微信公众号（超详细）](https://forum.laf.run/d/364)
 - [Laf 接入阿里云视频点播服务](https://forum.laf.run/d/346)
 - [Laf 接入 UniPush](https://forum.laf.run/d/349)
